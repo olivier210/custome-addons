@@ -1,0 +1,1 @@
+what you do is do win+r and type C:\Users\olivi\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang and press enter then go to develpment_recource_packs and paste the all in there and your done have fun with it!
